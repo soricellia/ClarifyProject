@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">ClarifyProject</string>
-
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_section1">Photos</string>
+    <string name="title_section2">Hashtags</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
